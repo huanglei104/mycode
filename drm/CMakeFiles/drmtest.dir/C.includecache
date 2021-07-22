@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/huanglei/Code/drm/test.c
+libdrm/drm.h
+-
+inttypes.h
+-
+stdio.h
+-
+stdlib.h
+-
+sys/mman.h
+-
+xf86drm.h
+-
+xf86drmMode.h
+-
+fcntl.h
+-
+unistd.h
+-
+string.h
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/cc -Wall -g -rdynamic CMakeFiles/regex.dir/email.c.o -o regex 

@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/huanglei/Code/json-c",
+  "command": "/usr/bin/cc  -I/usr/include/json-c  -Wall -g -ggdb -o CMakeFiles/jsonc.dir/test.c.o -c /home/huanglei/Code/json-c/test.c",
+  "file": "/home/huanglei/Code/json-c/test.c"
+}
+]

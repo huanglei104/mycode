@@ -1,0 +1,3 @@
+/home/huanglei/Code/drm/CMakeFiles/rebuild_cache.dir
+/home/huanglei/Code/drm/CMakeFiles/edit_cache.dir
+/home/huanglei/Code/drm/CMakeFiles/drmtest.dir

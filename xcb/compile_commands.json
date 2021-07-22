@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/huanglei/Code/xcb",
+  "command": "/usr/bin/cc   -Wall -o CMakeFiles/test.dir/main.c.o -c /home/huanglei/Code/xcb/main.c",
+  "file": "/home/huanglei/Code/xcb/main.c"
+}
+]

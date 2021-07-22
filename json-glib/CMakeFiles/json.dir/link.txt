@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -g -ggdb -rdynamic CMakeFiles/json.dir/test.c.o -o json 

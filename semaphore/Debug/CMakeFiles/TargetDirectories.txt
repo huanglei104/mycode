@@ -1,0 +1,4 @@
+/home/huanglei/Code/semaphore/Debug/CMakeFiles/edit_cache.dir
+/home/huanglei/Code/semaphore/Debug/CMakeFiles/run.dir
+/home/huanglei/Code/semaphore/Debug/CMakeFiles/rebuild_cache.dir
+/home/huanglei/Code/semaphore/Debug/CMakeFiles/semaphore.dir

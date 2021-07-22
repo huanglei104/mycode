@@ -1,0 +1,4 @@
+3: enp0s20f0u9u1: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UP group default qlen 1000
+    link/ether 00:0e:c6:b8:5f:b0 brd ff:ff:ff:ff:ff:ff
+    inet 192.168.31.165/24 brd 192.168.31.255 scope global dynamic enp0s20f0u9u1
+       valid_lft 34297sec preferred_lft 34297sec

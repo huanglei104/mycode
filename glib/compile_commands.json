@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/huanglei/Code/glib",
+  "command": "/usr/bin/cc  -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -g -o CMakeFiles/study.dir/test.c.o -c /home/huanglei/Code/glib/test.c",
+  "file": "/home/huanglei/Code/glib/test.c"
+}
+]

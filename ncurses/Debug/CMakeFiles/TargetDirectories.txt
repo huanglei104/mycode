@@ -1,0 +1,4 @@
+/home/huanglei/Code/ncurses/Debug/CMakeFiles/rebuild_cache.dir
+/home/huanglei/Code/ncurses/Debug/CMakeFiles/edit_cache.dir
+/home/huanglei/Code/ncurses/Debug/CMakeFiles/run.dir
+/home/huanglei/Code/ncurses/Debug/CMakeFiles/ncruses_demo.dir

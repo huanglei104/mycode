@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/huanglei/Code/getss/Debug",
+  "command": "/usr/bin/cc  -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -Wall -g -o CMakeFiles/getss.dir/main.c.o -c /home/huanglei/Code/getss/main.c",
+  "file": "/home/huanglei/Code/getss/main.c"
+}
+]

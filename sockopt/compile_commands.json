@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/huanglei/Code/sockopt",
+  "command": "/usr/bin/cc   -Wall -g -o CMakeFiles/sockopt.dir/main.c.o -c /home/huanglei/Code/sockopt/main.c",
+  "file": "/home/huanglei/Code/sockopt/main.c"
+}
+]

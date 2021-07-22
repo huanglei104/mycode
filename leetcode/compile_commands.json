@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/huanglei/Code/leetcode",
+  "command": "/usr/bin/cc  -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -Wall -o CMakeFiles/test.dir/test.c.o -c /home/huanglei/Code/leetcode/test.c",
+  "file": "/home/huanglei/Code/leetcode/test.c"
+}
+]

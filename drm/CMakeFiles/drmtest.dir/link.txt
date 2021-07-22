@@ -1,0 +1,1 @@
+/usr/bin/cc -g -rdynamic CMakeFiles/drmtest.dir/test.c.o -o drmtest  -ldrm 

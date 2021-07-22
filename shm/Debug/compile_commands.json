@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/huanglei/Code/shm/Debug",
+  "command": "/usr/bin/cc   -Wall -g -g -o CMakeFiles/shm.dir/src/main.c.o -c /home/huanglei/Code/shm/src/main.c",
+  "file": "/home/huanglei/Code/shm/src/main.c"
+}
+]

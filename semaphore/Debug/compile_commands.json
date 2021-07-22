@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/huanglei/Code/semaphore/Debug",
+  "command": "/usr/bin/cc   -Wall -g -g -o CMakeFiles/semaphore.dir/src/name_sem.c.o -c /home/huanglei/Code/semaphore/src/name_sem.c",
+  "file": "/home/huanglei/Code/semaphore/src/name_sem.c"
+},
+{
+  "directory": "/home/huanglei/Code/semaphore/Debug",
+  "command": "/usr/bin/cc   -Wall -g -g -o CMakeFiles/semaphore.dir/src/semaphore.c.o -c /home/huanglei/Code/semaphore/src/semaphore.c",
+  "file": "/home/huanglei/Code/semaphore/src/semaphore.c"
+},
+{
+  "directory": "/home/huanglei/Code/semaphore/Debug",
+  "command": "/usr/bin/cc   -Wall -g -g -o CMakeFiles/semaphore.dir/src/unname_sem.c.o -c /home/huanglei/Code/semaphore/src/unname_sem.c",
+  "file": "/home/huanglei/Code/semaphore/src/unname_sem.c"
+},
+{
+  "directory": "/home/huanglei/Code/semaphore/Debug",
+  "command": "/usr/bin/cc   -Wall -g -g -o CMakeFiles/semaphore.dir/src/xsi_sem.c.o -c /home/huanglei/Code/semaphore/src/xsi_sem.c",
+  "file": "/home/huanglei/Code/semaphore/src/xsi_sem.c"
+}
+]

@@ -1,0 +1,11 @@
+#!/usr/bin/awk
+
+BEGIN {
+}
+
+/inet/ {
+	print $3;
+}
+
+END {
+}

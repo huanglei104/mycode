@@ -1,0 +1,3 @@
+/home/huanglei/Code/glib/CMakeFiles/rebuild_cache.dir
+/home/huanglei/Code/glib/CMakeFiles/edit_cache.dir
+/home/huanglei/Code/glib/CMakeFiles/study.dir

@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/huanglei/Code/ncurses/Debug",
+  "command": "/usr/bin/cc   -Wall -g -o CMakeFiles/ncruses_demo.dir/hw.c.o -c /home/huanglei/Code/ncurses/hw.c",
+  "file": "/home/huanglei/Code/ncurses/hw.c"
+}
+]

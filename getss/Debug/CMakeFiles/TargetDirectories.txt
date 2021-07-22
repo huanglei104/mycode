@@ -1,0 +1,4 @@
+/home/huanglei/Code/getss/Debug/CMakeFiles/rebuild_cache.dir
+/home/huanglei/Code/getss/Debug/CMakeFiles/edit_cache.dir
+/home/huanglei/Code/getss/Debug/CMakeFiles/run.dir
+/home/huanglei/Code/getss/Debug/CMakeFiles/getss.dir

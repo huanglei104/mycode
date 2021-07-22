@@ -1,0 +1,4 @@
+./a.sh: line 2: sdf: command not found
+name123 hello world
+passwd123 haha xixi
+[32mlogin success[0m

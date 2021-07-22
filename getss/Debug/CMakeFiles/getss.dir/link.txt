@@ -1,0 +1,1 @@
+/usr/bin/cc -Wall -g -rdynamic CMakeFiles/getss.dir/main.c.o -o getss  -lgumbo -lglib-2.0 -lssl -lcrypto -lhttp_parser 

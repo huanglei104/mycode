@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/huanglei/Code/regex",
+  "command": "/usr/bin/cc   -Wall -g -o CMakeFiles/regex.dir/email.c.o -c /home/huanglei/Code/regex/email.c",
+  "file": "/home/huanglei/Code/regex/email.c"
+}
+]

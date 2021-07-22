@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/huanglei/Code/timer",
+  "command": "/usr/bin/cc   -Wall -g -o CMakeFiles/timer.dir/main.c.o -c /home/huanglei/Code/timer/main.c",
+  "file": "/home/huanglei/Code/timer/main.c"
+}
+]

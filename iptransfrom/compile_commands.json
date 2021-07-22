@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/huanglei/Code/iptransfrom",
+  "command": "/usr/bin/cc   -Wall -g -o CMakeFiles/iptf.dir/main.c.o -c /home/huanglei/Code/iptransfrom/main.c",
+  "file": "/home/huanglei/Code/iptransfrom/main.c"
+}
+]

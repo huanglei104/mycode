@@ -1,0 +1,1 @@
+/usr/bin/cc -Wall -g -g -rdynamic CMakeFiles/semaphore.dir/src/name_sem.c.o CMakeFiles/semaphore.dir/src/semaphore.c.o CMakeFiles/semaphore.dir/src/unname_sem.c.o CMakeFiles/semaphore.dir/src/xsi_sem.c.o -o out/semaphore  -lpthread 

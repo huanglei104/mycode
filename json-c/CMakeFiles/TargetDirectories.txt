@@ -1,0 +1,3 @@
+/home/huanglei/Code/json-c/CMakeFiles/rebuild_cache.dir
+/home/huanglei/Code/json-c/CMakeFiles/edit_cache.dir
+/home/huanglei/Code/json-c/CMakeFiles/jsonc.dir

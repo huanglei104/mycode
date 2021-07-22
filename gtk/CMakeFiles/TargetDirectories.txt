@@ -1,0 +1,4 @@
+/home/huanglei/Code/gtk/CMakeFiles/rebuild_cache.dir
+/home/huanglei/Code/gtk/CMakeFiles/run.dir
+/home/huanglei/Code/gtk/CMakeFiles/edit_cache.dir
+/home/huanglei/Code/gtk/CMakeFiles/test.dir

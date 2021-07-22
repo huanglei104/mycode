@@ -1,0 +1,14 @@
+[
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I/usr/include/hs",
+            "-o",
+            "simplegrep",
+            "simplegrep.c"
+        ],
+        "directory": "/home/huanglei/Code/hyperscan",
+        "file": "simplegrep.c"
+    }
+]

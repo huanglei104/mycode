@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/huanglei/Code/termio/Debug",
+  "command": "/usr/bin/cc   -Wall -g -o CMakeFiles/termio_demo.dir/main.c.o -c /home/huanglei/Code/termio/main.c",
+  "file": "/home/huanglei/Code/termio/main.c"
+}
+]

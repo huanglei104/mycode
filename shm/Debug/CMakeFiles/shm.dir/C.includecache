@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/huanglei/Code/shm/src/main.c
+unistd.h
+-
+stdlib.h
+-
+stdio.h
+-
+errno.h
+-
+fcntl.h
+-
+string.h
+-
+sys/file.h
+-
+sys/wait.h
+-
+sys/mman.h
+-
+

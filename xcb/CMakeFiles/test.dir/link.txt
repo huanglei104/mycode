@@ -1,0 +1,1 @@
+/usr/bin/cc -Wall -rdynamic CMakeFiles/test.dir/main.c.o -o test  -lxcb 

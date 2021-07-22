@@ -1,0 +1,3 @@
+/home/huanglei/Code/json-glib/CMakeFiles/rebuild_cache.dir
+/home/huanglei/Code/json-glib/CMakeFiles/edit_cache.dir
+/home/huanglei/Code/json-glib/CMakeFiles/test.dir

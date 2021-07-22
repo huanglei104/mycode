@@ -1,0 +1,1 @@
+/usr/bin/cc -Wall -g -g -rdynamic CMakeFiles/shm.dir/src/main.c.o -o out/shm  -lpthread 

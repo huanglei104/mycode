@@ -1,0 +1,20 @@
+[
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-I/usr/include/gmime-2.6",
+            "-D_LARGEFILE64_SOURCE",
+            "-I/usr/include/glib-2.0",
+            "-I/usr/lib/glib-2.0/include",
+            "-pthread",
+            "-I/usr/include/libmount",
+            "-I/usr/include/blkid",
+            "-o",
+            "a",
+            "a.c"
+        ],
+        "directory": "/home/huanglei/Code/gmime",
+        "file": "a.c"
+    }
+]

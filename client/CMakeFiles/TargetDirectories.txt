@@ -1,0 +1,3 @@
+/home/huanglei/Code/client/CMakeFiles/rebuild_cache.dir
+/home/huanglei/Code/client/CMakeFiles/edit_cache.dir
+/home/huanglei/Code/client/CMakeFiles/client.dir

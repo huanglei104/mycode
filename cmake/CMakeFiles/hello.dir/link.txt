@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/obj.dir/obj.c.o -o hello  -Wl,-rpath,/home/slim/Code/cmake libstatic.a libdynamic.so 

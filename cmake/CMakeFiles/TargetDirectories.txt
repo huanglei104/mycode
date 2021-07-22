@@ -1,0 +1,7 @@
+/home/slim/Code/cmake/CMakeFiles/rebuild_cache.dir
+/home/slim/Code/cmake/CMakeFiles/edit_cache.dir
+/home/slim/Code/cmake/CMakeFiles/hello.dir
+/home/slim/Code/cmake/CMakeFiles/obj.dir
+/home/slim/Code/cmake/CMakeFiles/dynamic.dir
+/home/slim/Code/cmake/CMakeFiles/main.dir
+/home/slim/Code/cmake/CMakeFiles/static.dir

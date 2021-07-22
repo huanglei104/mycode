@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -g -ggdb -rdynamic CMakeFiles/test.dir/test.c.o -o test  -ljson-glib-1.0 -lgio-2.0 -lgobject-2.0 -lglib-2.0 

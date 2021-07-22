@@ -1,0 +1,4 @@
+/home/slim/Code/getip/CMakeFiles/rebuild_cache.dir
+/home/slim/Code/getip/CMakeFiles/edit_cache.dir
+/home/slim/Code/getip/CMakeFiles/ifinfo.dir
+/home/slim/Code/getip/CMakeFiles/common.dir

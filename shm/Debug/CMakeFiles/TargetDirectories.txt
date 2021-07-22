@@ -1,0 +1,4 @@
+/home/huanglei/Code/shm/Debug/CMakeFiles/rebuild_cache.dir
+/home/huanglei/Code/shm/Debug/CMakeFiles/run.dir
+/home/huanglei/Code/shm/Debug/CMakeFiles/edit_cache.dir
+/home/huanglei/Code/shm/Debug/CMakeFiles/shm.dir

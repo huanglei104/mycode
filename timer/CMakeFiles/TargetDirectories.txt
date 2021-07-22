@@ -1,0 +1,3 @@
+/home/huanglei/Code/timer/CMakeFiles/edit_cache.dir
+/home/huanglei/Code/timer/CMakeFiles/rebuild_cache.dir
+/home/huanglei/Code/timer/CMakeFiles/timer.dir

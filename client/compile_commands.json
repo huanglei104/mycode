@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/huanglei/Code/client",
+  "command": "/usr/bin/cc   -Wall -g -o CMakeFiles/client.dir/client.c.o -c /home/huanglei/Code/client/client.c",
+  "file": "/home/huanglei/Code/client/client.c"
+}
+]

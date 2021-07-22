@@ -1,0 +1,3 @@
+/home/slim/Code/fb/CMakeFiles/rebuild_cache.dir
+/home/slim/Code/fb/CMakeFiles/edit_cache.dir
+/home/slim/Code/fb/CMakeFiles/main.dir

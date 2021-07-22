@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/slim/Code/getip",
+  "command": "/usr/bin/cc -Dcommon_EXPORTS  -fPIC -Wall -o CMakeFiles/common.dir/src/lib/common.c.o -c /home/slim/Code/getip/src/lib/common.c",
+  "file": "/home/slim/Code/getip/src/lib/common.c"
+},
+{
+  "directory": "/home/slim/Code/getip",
+  "command": "/usr/bin/cc  -I/home/slim/Code/getip/src/include -Wall -o CMakeFiles/ifinfo.dir/src/app/test.c.o -c /home/slim/Code/getip/src/app/test.c",
+  "file": "/home/slim/Code/getip/src/app/test.c"
+}
+]

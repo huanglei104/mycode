@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/ifinfo.dir/src/app/test.c.o -o out/ifinfo  -Wl,-rpath,/home/slim/Code/getip/out out/libcommon.so 

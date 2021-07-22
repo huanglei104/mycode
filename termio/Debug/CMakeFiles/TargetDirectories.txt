@@ -1,0 +1,4 @@
+/home/huanglei/Code/termio/Debug/CMakeFiles/rebuild_cache.dir
+/home/huanglei/Code/termio/Debug/CMakeFiles/edit_cache.dir
+/home/huanglei/Code/termio/Debug/CMakeFiles/run.dir
+/home/huanglei/Code/termio/Debug/CMakeFiles/termio_demo.dir

@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/huanglei/Code/epoll_test",
+  "command": "/usr/bin/cc  -I/usr/include/glib-2.0 -I/usr/lib/glib-2.0/include -Wall -g -o CMakeFiles/epoll_test.dir/main.c.o -c /home/huanglei/Code/epoll_test/main.c",
+  "file": "/home/huanglei/Code/epoll_test/main.c"
+}
+]

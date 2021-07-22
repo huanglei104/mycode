@@ -1,0 +1,12 @@
+导出默认的连接控制脚本文件：保存为linker.lds
+通过命令gcc -Wl,--verbose可以获得默认的连接控制脚本, 即选择 "=======..."之间的文本，保存为linker.lds文件
+在linker.lds文件中增加本例需要控制的语句：
+将下面这段代码copy到linker.lds文件的__bss_start = .;语句之前。
+       /*定义__initcall_start符号为当前位置,即.代表当前位置*/
+     __initcall_start = .;
+     function_ptrs   : { *(function_ptrs) }
+     __initcall_end = .;
+     /*上述3行代码代表function_ptrs节位于__initcall_start和__initcall_end之间*/
+     code_segment    : { *(code_segment) }
+
+参考 https://www.xuebuyuan.com/1964367.html

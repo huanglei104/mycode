@@ -1,0 +1,1 @@
+/usr/bin/cc -Wall -g -rdynamic CMakeFiles/termio_demo.dir/main.c.o -o termio_demo 

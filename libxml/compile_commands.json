@@ -1,0 +1,18 @@
+[
+    {
+        "arguments": [
+            "gcc",
+            "-c",
+            "-Wall",
+            "-g",
+            "-I/usr/include/libxml2",
+            "-I/usr/include/glib-2.0",
+            "-I/usr/lib/glib-2.0/include",
+            "-o",
+            "parse",
+            "parse.c"
+        ],
+        "directory": "/home/huanglei/Code/libxml",
+        "file": "parse.c"
+    }
+]

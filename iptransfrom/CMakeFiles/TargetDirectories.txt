@@ -1,0 +1,3 @@
+/home/huanglei/Code/iptransfrom/CMakeFiles/rebuild_cache.dir
+/home/huanglei/Code/iptransfrom/CMakeFiles/edit_cache.dir
+/home/huanglei/Code/iptransfrom/CMakeFiles/iptf.dir
